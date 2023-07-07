@@ -1,1 +1,1 @@
-# mts_python_data_analisys
+# repo for course MTS "Python programming language for data analysis"
